@@ -14,13 +14,13 @@
         of the Raspberry Pi boards went much further than before. This small board is powered by a 64-bit quad-core Arm Cortex-A53 CPU clocking at 1GHz
         with 512MB of LPDDR2 SDRAM, and integrated wifi/bluetooth communications. <br> Thr</p>
 
-       </div>
-       <div>
+</div>
+<div>
         <p>Sources:</p>
         <ol> 
         <a href="https://www.cam.ac.uk/stories/raspberrypi"><li id="source1">The life of Pi: Ten years of Raspberry Pi </li></a>
         <a href="https://pip-assets.raspberrypi.com/categories/584-raspberry-pi-zero-2-w/documents/RP-008359-DS-1-raspberry-pi-zero-2-w-product-brief.pdf" id="source2"><li>Raspberry Pi Zero 2 W [DataSheet]</li></a>
        </ol>
-       </div>
+</div>
 </body>
 </html>
