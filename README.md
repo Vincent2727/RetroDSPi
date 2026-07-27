@@ -10,7 +10,8 @@ All of these fancy specs allow the Raspberry Pi Zero 2 w to perform some impress
 6. Cheap and easily replicable
 
 ## The Plan
-As with most projects, they first begin with specing parts and making sure that they would be compatible. I began with the board: <br> <a href="https://www.adafruit.com/product/5291">Raspberry Pi Zero 2 w</a> 
+As with most projects, they first begin with specing parts and making sure that they would be compatible. I began with the board: <br> <a href="https://www.adafruit.com/product/5291" style="align-items: center;">Raspberry Pi Zero 2 w</a> <br>
+Next, I needed an OS to power the board, I went with <a>
 
 ### Sources
 1. <a href="https://www.cam.ac.uk/stories/raspberrypi">The life of Pi: Ten years of Raspberry Pi</a>
