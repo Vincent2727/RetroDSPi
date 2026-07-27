@@ -12,9 +12,10 @@
         40 milion units and having a market share of 1 billion dollars plus <sup><a href="#source1">[1]</a></sup>. This shouldn't come as a suprise 
         when developers started to wonder what the limits are of this tiny device. Thanks to the introduction of the Raspberry Pi Zero 2 W, pushing the limits
         of the Raspberry Pi boards went much further than before. This small board is powered by a 64-bit quad-core Arm Cortex-A53 CPU clocking at 1GHz
-        with 512MB of LPDDR2 SDRAM, and integrated wifi/bluetooth communications. <br>
+        with 512MB of LPDDR2 SDRAM, and integrated wifi/bluetooth communications. <br> The
 
-       </div><div>
+       </div>
+       <div>
         <p>Sources:</p>
         <ol> 
         <a href="https://www.cam.ac.uk/stories/raspberrypi"><li id="source1">The life of Pi: Ten years of Raspberry Pi </li></a>
